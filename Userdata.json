@@ -18,8 +18,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "06ed310d199d3997",
+        "device_id": "92c6b9b93f1ebc31",
         "key": "22.595139102,GABJD88",
+        "expirydate": "23-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "06ed310d199d3997",
+        "key": "22.5822875, 88.46310940000001",
         "expirydate": "23-08-2026",
         "Allowoffline": false
     }
