@@ -26,7 +26,13 @@
     {
         "device_id": "92c6b9b93f1ebc31",
         "key": "22.5822875, 88.46310940000001",
-        "expirydate": "20-08-2026",
+        "expirydate": "10-08-2026",
+        "Allowoffline": false
+    },
+      {
+        "device_id": "8bc5a22360d5fc9b",
+        "key": "dp/Nt_e8285t",
+        "expirydate": "22-08-2026",
         "Allowoffline": false
     }
 ]
