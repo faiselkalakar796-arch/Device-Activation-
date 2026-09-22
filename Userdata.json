@@ -20,7 +20,7 @@
     {
         "device_id": "abc0875b617e589b",
         "key": "ADMIN",
-        "expirydate": "15-06-2027",
-        "Allowoffline": true
+        "expirydate": "23-09-2026",
+        "Allowoffline": false 
     }
 ]
