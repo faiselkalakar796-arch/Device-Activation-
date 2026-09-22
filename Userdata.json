@@ -1,51 +1,8 @@
 [
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "abc0875b617e589b",
-        "key": "22.595139102,GABJD88.412253",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "d626db5179d50426",
-        "key": "22.595139102,GABJD88",
-        "expirydate": "23-12-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "92c6b9b93f1ebc31",
-        "key": "22.5822875, 88.46310940000001",
-        "expirydate": "10-08-2026",
-        "Allowoffline": false
-    },
-      {
-        "device_id": "8bc5a22360d5fc9b",
-        "key": "25.3607198, 88.32062142t",
-        "expirydate": "30-08-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "1ee3a33325a11500",
-        "key": "25.3607198, 88.32062142",
-        "expirydate": "21-10-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "28959742406d90f0",
-        "key": "p3$27A8B$F7t",
-        "expirydate": "15-10-2026",
-        "Allowoffline": false
-    },
-
+  {
+    "device_id": "d626db5179d50426",
+    "activation_key": "22.595139102,GABJD88",
+    "expirydate": "31-12-2026",
+    "is_activated": true
+  }
 ]
